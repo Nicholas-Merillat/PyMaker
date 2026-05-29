@@ -1,9 +1,9 @@
 .vscode/
 __pycache__/
 
-bin/
 saves/
 
 PyMaker
-*.exe
+PyMaker.exe
+PyMaker.x86_64
 *.x86_64

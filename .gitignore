@@ -1,0 +1,9 @@
+.vscode/
+__pycache__/
+
+bin/
+saves/
+
+PyMaker
+*.exe
+*.x86_64

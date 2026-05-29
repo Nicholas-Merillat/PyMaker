@@ -1,0 +1,4 @@
+air:False
+ground:True
+block:False
+crate:False
